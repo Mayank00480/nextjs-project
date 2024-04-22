@@ -1,0 +1,20 @@
+.about {
+    display: flex;
+    justify-content: space-evenly;
+    
+  
+}
+.content{
+    width : 30vw;
+}
+.image{
+    display: flex;
+    justify-content: left;
+}
+.image img{
+    border-radius: 50%;
+}
+.btn{
+    background-color: black;
+    color: white;
+}
